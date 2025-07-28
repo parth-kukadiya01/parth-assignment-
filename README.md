@@ -10,8 +10,8 @@ Includes JWT authentication, role-based access control, and auto-generated API d
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone (https://github.com/parth-kukadiya01/parth-assignment-.git)
+cd parth_assignment
 ```
 
 ### 2. Set up the environment
